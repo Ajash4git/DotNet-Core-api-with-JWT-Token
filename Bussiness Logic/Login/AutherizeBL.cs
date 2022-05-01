@@ -21,8 +21,7 @@ namespace Bussiness_Logic.Login
 
         public tokenCard CreateJwtToken(userLogin userData)
         {
-            //  Create JWT Token
-
+            //  Create JWT Token and Refrest Token part
             try
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
