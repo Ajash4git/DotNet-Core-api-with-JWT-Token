@@ -1,0 +1,15 @@
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\Bussines DA.deps.json
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\Bussines DA.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\ref\Bussines DA.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\Bussines DA.pdb
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\Bussines Entity.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\bin\Debug\net5.0\Bussines Entity.pdb
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.csproj.AssemblyReference.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.AssemblyInfoInputs.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.AssemblyInfo.cs
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.csproj.CoreCompileInputs.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.csproj.CopyComplete
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\ref\Bussines DA.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussines DA\obj\Debug\net5.0\Bussines DA.pdb

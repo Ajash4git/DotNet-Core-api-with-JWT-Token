@@ -1,0 +1,17 @@
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines Logic.deps.json
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines Logic.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\ref\Bussines Logic.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines Logic.pdb
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines DA.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines Entity.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines DA.pdb
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\bin\Debug\net5.0\Bussines Entity.pdb
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.csproj.AssemblyReference.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.AssemblyInfoInputs.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.AssemblyInfo.cs
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.csproj.CopyComplete
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\ref\Bussines Logic.dll
+C:\Users\Ajash\source\repos\CoreWeb JWT Bearer\Bussiness Logic\obj\Debug\net5.0\Bussines Logic.pdb
