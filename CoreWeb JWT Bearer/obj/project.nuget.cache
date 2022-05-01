@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1Xaz9VN+AMUk3uRxHPpGGRpONOolTU5pJ1vM8WP/RuaKMVtVWq09ZQDOpcM63R7gJjUzzzWRuDpcNXz/iw49w==",
+  "dgSpecHash": "BTwJLnEaFJh5X3asRQMei9wZEWb1B8aJrV5CdYivr/rrpbueTQeqnqOYzH3pDPzDDTcpcrN/qnnUxu9UkpRJJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\CoreWeb JWT Bearer\\CoreWeb JWT Bearer.csproj",
+  "projectFilePath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\CoreWeb JWT Bearer\\CoreWeb JWT Bearer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajash\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Ajash\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

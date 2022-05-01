@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3acv1QbZJ73FMaceYf96TwuLjGj60/nZCCiqPbAz2a/rcTVPD1PkfRdPpQ9GNVdrNx0WQY9zalF2E50rEqB5w==",
+  "dgSpecHash": "RaDP3iJizz6GDaMkSj89q7WEo3y4Mmd25ifhS6zcsWBjfy/upjXgtSKS5LThXuN/DDCDJFzE2IM+QxOFxOQsLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussiness Logic\\Bussines Logic.csproj",
+  "projectFilePath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussiness Logic\\Bussines Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajash\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Ajash\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines Entity\\Bussines Entity.csproj",
+      "projectUniqueName": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines Entity\\Bussines Entity.csproj",
       "projectName": "Bussines Entity",
-      "projectPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines Entity\\Bussines Entity.csproj",
+      "projectPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines Entity\\Bussines Entity.csproj",
       "packagesPath": "C:\\Users\\Ajash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines Entity\\obj\\",
+      "outputPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajash\\AppData\\Roaming\\NuGet\\NuGet.Config",

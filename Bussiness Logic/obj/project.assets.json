@@ -1496,11 +1496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussiness Logic\\Bussines Logic.csproj",
+      "projectUniqueName": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussiness Logic\\Bussines Logic.csproj",
       "projectName": "Bussines Logic",
-      "projectPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussiness Logic\\Bussines Logic.csproj",
+      "projectPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussiness Logic\\Bussines Logic.csproj",
       "packagesPath": "C:\\Users\\Ajash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussiness Logic\\obj\\",
+      "outputPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussiness Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1518,11 +1518,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines DA\\Bussines DA.csproj": {
-              "projectPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines DA\\Bussines DA.csproj"
+            "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines DA\\Bussines DA.csproj": {
+              "projectPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines DA\\Bussines DA.csproj"
             },
-            "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines Entity\\Bussines Entity.csproj": {
-              "projectPath": "C:\\Users\\Ajash\\source\\repos\\CoreWeb JWT Bearer\\Bussines Entity\\Bussines Entity.csproj"
+            "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines Entity\\Bussines Entity.csproj": {
+              "projectPath": "D:\\Study Project and Git Connected\\Personal project Structures\\DotNet-Core-api-with-JWT-Token\\Bussines Entity\\Bussines Entity.csproj"
             }
           }
         }
